@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guoqing Zhang(张国庆)
+title: Guoqing Zhang
 
 # Full Name (for SEO)
 first_name: Guoqing

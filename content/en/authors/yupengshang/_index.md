@@ -18,11 +18,11 @@ role: Master Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Nanjing University of Information Science & Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Single Image Super-Resolution.
 
 interests:
   - Single Image Super-Resolution
@@ -71,6 +71,4 @@ user_groups:
   - Researchers
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Yupeng Shang is currently a graduate student majoring in Computer Technology at Nanjing University of Information Science & Technology. He is currently studying at the Re-IDea Laboratory, focusing on the research direction of single image super-resolution.
