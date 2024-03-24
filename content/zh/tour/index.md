@@ -13,9 +13,9 @@ sections:
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: photo2.jpg
             filters:
-              brightness: 0.7
+              brightness: 1
           position: right
           color: '#666'
       # - title: Lunch & Learn ☕️
