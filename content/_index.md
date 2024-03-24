@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Re-IDea
         Research Group
       image:
         filename: welcome.jpg
