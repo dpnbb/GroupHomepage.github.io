@@ -12,11 +12,11 @@ en:
 zh:
  languageCode: zh-Hans
  contentDir: content/zh
- title: Chinese website title...
- params:
-   description: Site description in Chinese...
- menu:
-   main:
-     - name: 传
-       url: '#about'
-       weight: 1
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
